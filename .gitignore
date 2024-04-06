@@ -1,2 +1,3 @@
 auth.py
 .env
+__pycache__
