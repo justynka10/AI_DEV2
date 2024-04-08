@@ -30,3 +30,4 @@ W ramach kursu, każdego dnia pojawiają się zadania praktyczne do wykonania. I
 - <a href="https://github.com/justynka10/AI_DEV2/blob/main/Przyk%C5%82ady%20z%20lekcji/22_simple_(C03L03).ipynb">22_simple</a> - Similarity Search w pracy z małą bazą wiedzy;
 - <a href="https://github.com/justynka10/AI_DEV2/blob/main/Przyk%C5%82ady%20z%20lekcji/23_fragmented_(C03L03).ipynb">23_fragmented</a> - problem fragmentacji dokumentów, która może prowadzić do pominięcia istotnych informacji w dynamicznym kontekście;
 - <a href="https://github.com/justynka10/AI_DEV2/blob/main/Przyk%C5%82ady%20z%20lekcji/24_files_(C03L03)">24_files</a> - praca z różnymi formatami plików - budowanie zestawu danych na podstawie informacji bezpośrednio ze strony internetowej;
+- [27_qdrant](https://github.com/justynka10/AI_DEV2/blob/main/Przyk%C5%82ady%20z%20lekcji/27_qdrant_(C03L04)) - wyszukiwanie w lokalnej bazie wektorowej Qdrant;
